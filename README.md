@@ -1,0 +1,2 @@
+# hello-git
+przykladowe repozytorium
