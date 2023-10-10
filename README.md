@@ -1,5 +1,5 @@
 # hello-git
 przykladowe repozytorium
 
-#Credits
+# Credits
 The repository was created during a course on PUT.
